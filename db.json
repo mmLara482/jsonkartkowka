@@ -1,0 +1,25 @@
+{
+  "planszowki":[
+  {
+    "tytul": "Cywilizacja",
+    "minLG": 2,
+    "maxLG": 4,
+    "czas": 120,
+    "trudnosc": 4
+  },
+  {
+    "tytul": "Eclipse",
+    "minLG": 2,
+    "maxLG": 6,
+    "czas": 120,
+    "trudnosc": 5
+  },
+  {
+    "tytul": "Catan",
+    "minLG": 3,
+    "maxLG": 6,
+    "czas": 60,
+    "trudnosc": 2
+  },
+]
+}
